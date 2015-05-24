@@ -1,5 +1,5 @@
 ipconfig
-
+test
 
 
 Hi All , 
@@ -9,5 +9,6 @@ This is the GIT repo which i have clonned  who ever wants access can request me 
 Hi santosh
 Hi All this is the  merged code on GIT
 
-HI How are you brij
+<<<<<<< .mineHI How are you brij
 
+=======>>>>>>> .theirs
