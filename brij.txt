@@ -10,3 +10,5 @@ Hi santosh
 Hi All this is the  merged code on GIT
 Hi kids this is really awesome
 I am going to really do  a planned execution 
+
+This is added to check git log HEAD -s
