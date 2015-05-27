@@ -14,4 +14,4 @@ Hi All this is the  merged code on GIT
 =======>>>>>>> .theirs
 hi tis is done to understand the concepts
 
-tommorow i can cry
+this is line 1tommorow i can cry
